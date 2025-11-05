@@ -1,4 +1,4 @@
--- for mongo db run these commands individually ,, it will not work as mysql (direct copy paste )
+-- " ! for mongo db run these commands individually" ,, it will not work as mysql (direct copy paste )
 show dbs
 
 use db-company
