@@ -102,4 +102,79 @@ while True:
         print("It's a draw!")
         break
     
-    
+    OUTPUT
+
+
+Welcome to Tic-Tac-Toe!
+You are X, AI is O.
+
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+
+Enter your move (0-8): 6
+
+
+  |   |  
+---------
+  |   |  
+---------
+X |   |  
+
+
+AI played at position 4
+
+
+  |   |  
+---------
+  | O |  
+---------
+X |   |  
+
+
+Enter your move (0-8): 5
+
+
+  |   |  
+---------
+  | O | X
+---------
+X |   |  
+
+
+AI played at position 1
+
+
+  | O |  
+---------
+  | O | X
+---------
+X |   |  
+
+
+Enter your move (0-8): 8
+
+
+  | O |  
+---------
+  | O | X
+---------
+X |   | X
+
+
+AI played at position 7
+
+
+  | O |  
+---------
+  | O | X
+---------
+X | O | X
+
+
+AI wins!    
+
