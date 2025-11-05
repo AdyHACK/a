@@ -41,6 +41,30 @@ start = input("Enter starting node: ")
 bfs(graph, start)
 dfs(graph, start)
 
+OUTPUT
+
+Enter number of nodes: 6
+Enter node label: 5
+Enter neighbors of 5 separated by space: 3 7
+Enter node label: 3
+Enter neighbors of 3 separated by space: 2 4
+Enter node label: 7
+Enter neighbors of 7 separated by space: 8
+Enter node label: 2
+Enter neighbors of 2 separated by space:
+Enter node label: 4
+Enter neighbors of 4 separated by space: 8
+Enter node label: 8
+Enter neighbors of 8 separated by space:
+Enter starting node: 5
+
+
+Breadth-First Search:
+5 3 7 2 4 8
+
+Depth-First Search:
+5 3 2 4 8 7
+
 
 
 
