@@ -26,3 +26,20 @@ def chatbot():
 
 chatbot()
 
+
+OUTPUT
+
+
+Hi there! I am a chatbot. Type 'quit' to exit.
+You: I am excited
+Bot: Hello excited, how are you feeling today?
+You: feeling awesome
+Bot: Good to hear you are feeling awesome.
+You: I work at Infosys
+Bot: Wow, working at Infosys sounds great!
+You: I am tired
+Bot: Hello tired, how are you feeling today?
+You: feeling sleepy
+Bot: Good to hear you are feeling sleepy.
+You: quit
+Bot: Bye! Take care.
